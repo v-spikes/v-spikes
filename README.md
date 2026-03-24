@@ -6,6 +6,6 @@ Most of my work is just something I create when I have too much free time and no
 
 Check the stats below to know more:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-sipkes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-spikes&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-sipkes)
