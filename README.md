@@ -9,3 +9,10 @@ Check the stats below to know more:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-spikes&layout=compact)
 
 ![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-spikes&theme=github-dark)
+
+
+## Check out my social media:
+- [Instagram](https://www.instagram.com/v._.spikes/)
+- [Spotify](https://open.spotify.com/user/315d3lfzlxtev5wonbb6kcljumsq?si=d35f70cabbec4a7f)
+- [Twitter](https://x.com/vy16n7)
+
