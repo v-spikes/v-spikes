@@ -15,4 +15,5 @@ Check the stats below to know more:
 - [Instagram](https://www.instagram.com/v._.spikes/)
 - [Spotify](https://open.spotify.com/user/315d3lfzlxtev5wonbb6kcljumsq?si=d35f70cabbec4a7f)
 - [Twitter](https://x.com/vy16n7)
+- [Tiktok](https://www.tiktok.com/@vynguyen.167)
 
