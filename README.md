@@ -8,4 +8,4 @@ Check the stats below to know more:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-spikes&layout=compact)
 
-
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-spikes&theme=github-dark)
