@@ -7,9 +7,9 @@ Most of my work is just something I create when I have too much free time and no
 
 ## Check the stats below to know more:
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v-spikes&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hv-lab26&layout=compact)
 
-![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v-spikes&theme=github-dark)
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hv-lab26&theme=github-dark)
 
 
 ## Check out my social media:
