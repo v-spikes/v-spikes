@@ -13,7 +13,7 @@ Most of my work is just something I create when I have too much free time and no
 
 
 ## Check out my social media:
-- [Instagram](https://www.instagram.com/v._.spikes/)
+- [Instagram](https://www.instagram.com/alexng.167)
 - [Twitter](https://x.com/ecabk4)
 - [Spotify](https://open.spotify.com/user/315d3lfzlxtev5wonbb6kcljumsq?si=d35f70cabbec4a7f)
 - [Tiktok](https://www.tiktok.com/@alexng167)
